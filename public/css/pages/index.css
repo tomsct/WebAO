@@ -1,0 +1,12 @@
+#index{
+    height: 100%;
+}
+
+aside{
+    background-color: bisque;
+}
+
+main{
+    background-color: white;
+    height: 100%;
+}
